@@ -79,6 +79,7 @@
 | [Composio](https://github.com/ComposioHQ/composio) | 100+ tool integrations |
 | [Exa](https://github.com/exa-labs/exa-js) | Search API para agents |
 | [Browser Use](https://github.com/browser-use/browser-use) | Browser automation para agents |
+| [Agent QA](https://github.com/vostride/agent-qa) | Ferramenta de QA agêntica para testes web e mobile em linguagem natural, com CLI e integração MCP |
 
 ---
 
