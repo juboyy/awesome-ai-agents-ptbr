@@ -90,6 +90,7 @@
 | [OpenRouter](https://openrouter.ai/) | Unified API para LLMs |
 | [Ollama](https://github.com/ollama/ollama) | Run LLMs localmente |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput LLM serving |
+| [Hermes](https://buildwithhermes.com/) | Plataforma white-label para agencias implantarem e operarem agentes de voz, com CRM, campanhas e billing por cliente |
 
 ---
 
