@@ -73,6 +73,7 @@
 
 ## Ferramentas e Tool Use
 
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Runtime local de pagamentos para agentes via CLI e MCP stdio no macOS; assinatura exige aprovação do proprietário no terminal |
 | Projeto | Descrição |
 |---------|-----------|
 | [MCP](https://github.com/modelcontextprotocol) | Model Context Protocol da Anthropic |
