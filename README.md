@@ -79,6 +79,7 @@
 | [Composio](https://github.com/ComposioHQ/composio) | 100+ tool integrations |
 | [Exa](https://github.com/exa-labs/exa-js) | Search API para agents |
 | [Browser Use](https://github.com/browser-use/browser-use) | Browser automation para agents |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.pt-BR.md) | 18 servidores MCP de dados públicos hospedados na Apify: SAM.gov, Grants.gov, USAspending, licitações EU TED e Reino Unido, reuniões de câmaras municipais, vagas Ashby/Greenhouse/Lever/SmartRecruiters, redes sociais de empresas, Google Ads Transparency, vendas no Etsy, odds esportivas, plays no Spotify |
 
 ---
 
